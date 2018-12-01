@@ -65,13 +65,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2018-12-01 11:19:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2018-12-01 11:19:43 +0000"
     },
@@ -95,17 +95,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2018-12-01 11:19:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 11:10:57 +0000",
       "minecraft:snowy_tundra": "2018-12-01 11:10:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-12-01 11:19:47 +0000"
+    },
+    "done": true
   }
 }
