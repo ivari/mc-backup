@@ -1,4 +1,12 @@
 *
 !.gitignore
+!backup.sh
+
 !competition*/
 !competition*/**
+!ops.json
+!usercache.json
+!plugins/
+!plugins/LuckPerms/
+!plugins/LuckPerms/luckperms-h2.mv.db
+
