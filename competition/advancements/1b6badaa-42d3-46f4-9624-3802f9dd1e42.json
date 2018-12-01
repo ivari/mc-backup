@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2018-12-01 19:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2018-12-01 19:31:10 +0000"
@@ -17,9 +23,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2018-12-01 19:57:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2018-12-01 09:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2018-12-01 19:44:19 +0000"
     },
     "done": true
   },
@@ -32,6 +50,12 @@
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2018-12-01 18:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2018-12-01 19:39:58 +0000"
     },
     "done": true
   },
@@ -84,9 +108,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2018-12-01 19:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2018-12-01 09:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-01 19:41:25 +0000"
     },
     "done": true
   },
@@ -117,6 +153,12 @@
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2018-12-01 09:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2018-12-01 19:50:55 +0000"
     },
     "done": true
   },
@@ -189,6 +231,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-12-01 09:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2018-12-01 19:50:55 +0000"
     },
     "done": true
   },

@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2018-12-01 18:25:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_pillar": "2018-12-01 10:01:14 +0000"
@@ -35,21 +29,58 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp_block": "2018-12-01 10:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2018-12-01 10:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2018-12-01 10:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-01 09:58:30 +0000",
+      "minecraft:snowy_tundra": "2018-12-01 09:56:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2018-12-01 10:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2018-12-01 18:25:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2018-12-01 14:59:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_banner": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_orange_wool": "2018-12-01 10:00:39 +0000"
+      "has_lots_of_items": "2018-12-01 19:50:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
+  "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
-      "has_dried_kelp_block": "2018-12-01 10:00:58 +0000"
+      "has_orange_wool": "2018-12-01 10:00:39 +0000"
     },
     "done": true
   },
@@ -83,12 +114,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_bed": {
-    "criteria": {
-      "has_orange_wool": "2018-12-01 10:00:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2018-12-01 14:59:53 +0000"
@@ -98,12 +123,6 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2018-12-01 14:59:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2018-12-01 10:00:39 +0000"
     },
     "done": true
   },
@@ -128,19 +147,6 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2018-12-01 14:59:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2018-12-01 09:58:30 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 09:56:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_pillar": "2018-12-01 10:01:14 +0000"
     },
     "done": true
   }
