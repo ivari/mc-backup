@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2018-12-01 18:35:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2018-12-01 20:41:42 +0000"
@@ -17,9 +11,58 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2018-12-01 21:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2018-12-01 18:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2018-12-01 20:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-01 21:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2018-12-01 20:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2018-12-01 20:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-01 18:16:59 +0000",
+      "minecraft:snowy_tundra": "2018-12-01 18:10:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2018-12-01 18:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2018-12-01 21:06:29 +0000"
     },
     "done": true
   },
@@ -32,12 +75,6 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2018-12-01 18:28:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2018-12-01 20:41:42 +0000"
     },
     "done": true
   },
@@ -59,15 +96,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
+  "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "has_red_flower": "2018-12-01 20:33:35 +0000"
+      "has_log": "2018-12-01 21:06:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/cactus_green": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_cactus": "2018-12-01 20:39:17 +0000"
+      "has_red_flower": "2018-12-01 20:33:35 +0000"
     },
     "done": true
   },
@@ -83,6 +120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-12-01 21:04:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2018-12-01 18:28:03 +0000"
@@ -95,9 +138,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "has_stone_bricks": "2018-12-01 20:42:38 +0000"
+      "has_stone": "2018-12-01 21:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-01 21:04:30 +0000"
     },
     "done": true
   },
@@ -124,13 +173,6 @@
       "has_stone_bricks": "2018-12-01 20:42:38 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2018-12-01 18:16:59 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 18:10:09 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
