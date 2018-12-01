@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2018-12-01 15:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2018-12-01 14:43:00 +0000"
@@ -14,6 +20,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2018-12-01 14:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-01 15:01:38 +0000"
     },
     "done": true
   },
@@ -98,7 +110,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 14:31:59 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 14:29:55 +0000"
+      "minecraft:mountains": "2018-12-01 15:12:54 +0000",
+      "minecraft:snowy_tundra": "2018-12-01 14:29:55 +0000",
+      "minecraft:jungle": "2018-12-01 15:12:32 +0000"
     },
     "done": false
   },
