@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Put in crontab:
+# */5 * * * * bash /home/steve/minecraft/server/backup.sh >/dev/null
+
 cd /home/steve/minecraft/server
 
 git add competition*
