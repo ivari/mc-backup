@@ -1,7 +1,7 @@
 {
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_stone_pickaxe": "2018-12-01 13:47:13 +0000"
+      "has_redstone_block": "2018-12-01 14:24:11 +0000"
     },
     "done": true
   },
@@ -23,21 +23,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
+  "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
-      "has_brown_wool": "2018-12-01 13:49:11 +0000"
+      "has_light_blue_wool": "2018-12-01 14:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-01 14:25:28 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2018-12-01 14:05:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2018-12-01 13:49:11 +0000"
     },
     "done": true
   },
@@ -50,6 +50,54 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-01 13:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2018-12-01 14:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2018-12-01 14:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2018-12-01 14:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-12-01 13:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2018-12-01 13:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2018-12-01 14:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2018-12-01 14:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2018-12-01 13:49:11 +0000"
     },
     "done": true
   },

@@ -1,4 +1,46 @@
 {
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2018-12-01 14:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2018-12-01 14:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-01 14:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2018-12-01 14:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-01 14:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2018-12-01 13:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2018-12-01 13:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-12-01 13:39:35 +0000"
@@ -11,21 +53,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2018-12-01 14:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2018-12-01 13:57:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
-      "has_lots_of_items": "2018-12-01 14:06:05 +0000"
+      "has_planks": "2018-12-01 14:23:22 +0000"
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
-      "stone_pickaxe": "2018-12-01 13:39:35 +0000"
+      "has_planks": "2018-12-01 14:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2018-12-01 14:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-01 14:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2018-12-01 14:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-01 14:23:22 +0000"
     },
     "done": true
   },
@@ -35,11 +107,5 @@
       "minecraft:snowy_tundra": "2018-12-01 13:39:35 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_brick_block": "2018-12-01 13:57:29 +0000"
-    },
-    "done": true
   }
 }

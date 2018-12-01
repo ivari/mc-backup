@@ -1,19 +1,13 @@
 {
-  "minecraft:recipes/building_blocks/light_blue_wool": {
-    "criteria": {
-      "has_white_wool": "2018-12-01 13:48:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2018-12-01 13:48:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+  "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
-      "has_bonemeal": "2018-12-01 12:43:35 +0000"
+      "has_quartz_pillar": "2018-12-01 14:22:35 +0000"
     },
     "done": true
   },
@@ -24,30 +18,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/lime_wool": {
-    "criteria": {
-      "has_white_wool": "2018-12-01 13:48:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_white_wool": "2018-12-01 13:48:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2018-12-01 14:07:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2018-12-01 14:07:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2018-12-01 13:48:55 +0000"
     },
@@ -77,12 +47,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
-    "criteria": {
-      "has_red_terracotta": "2018-12-01 13:49:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-12-01 12:43:35 +0000"
@@ -101,27 +65,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2018-12-01 14:07:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2018-12-01 14:07:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2018-12-01 13:48:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2018-12-01 13:48:48 +0000"
     },
     "done": true
   },
@@ -162,12 +108,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2018-12-01 14:07:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2018-12-01 13:48:55 +0000"
@@ -192,15 +132,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
-      "has_wool": "2018-12-01 13:48:48 +0000"
+      "has_quartz_pillar": "2018-12-01 14:22:35 +0000"
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
-      "stone_pickaxe": "2018-12-01 12:15:28 +0000"
+      "has_quartz_pillar": "2018-12-01 14:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2018-12-01 13:48:48 +0000"
     },
     "done": true
   },
@@ -228,15 +174,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_wool": {
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-12-01 12:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2018-12-01 13:48:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "has_stone_pickaxe": "2018-12-01 12:15:28 +0000"
+      "has_stone": "2018-12-01 12:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-01 12:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 13:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-01 12:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 13:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2018-12-01 14:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2018-12-01 14:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 13:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2018-12-01 13:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2018-12-01 14:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 13:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2018-12-01 13:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2018-12-01 14:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2018-12-01 14:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2018-12-01 12:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 13:48:55 +0000"
     },
     "done": true
   },
@@ -258,27 +300,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_wool": {
-    "criteria": {
-      "has_white_wool": "2018-12-01 13:48:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2018-12-01 13:48:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2018-12-01 12:18:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2018-12-01 12:18:50 +0000"
     },
     "done": true
   },

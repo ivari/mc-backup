@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2018-12-01 14:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-01 12:32:21 +0000"
@@ -326,6 +332,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-12-01 13:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2018-12-01 14:28:57 +0000"
     },
     "done": true
   },

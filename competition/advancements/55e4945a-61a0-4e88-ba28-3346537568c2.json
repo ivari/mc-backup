@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-12-01 14:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2018-12-01 10:15:00 +0000"
@@ -83,6 +89,18 @@
       "minecraft:snowy_tundra": "2018-12-01 09:27:54 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2018-12-01 14:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2018-12-01 14:20:13 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -285,6 +303,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-01 14:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-12-01 14:17:18 +0000"
     },
     "done": true
   },
