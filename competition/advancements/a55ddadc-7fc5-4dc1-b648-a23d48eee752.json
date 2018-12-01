@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2018-12-01 10:13:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2018-12-01 11:26:01 +0000"
@@ -17,19 +11,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
-      "has_stick": "2018-12-01 11:26:01 +0000"
+      "has_quartz_block": "2018-12-01 11:40:18 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2018-12-01 11:26:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2018-12-01 11:26:01 +0000"
     },
@@ -41,9 +29,70 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2018-12-01 11:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2018-12-01 10:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-01 10:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-01 09:59:50 +0000",
+      "minecraft:snowy_tundra": "2018-12-01 09:56:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-12-01 11:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2018-12-01 10:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2018-12-01 11:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2018-12-01 11:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2018-12-01 10:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2018-12-01 11:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2018-12-01 11:40:18 +0000"
     },
     "done": true
   },
@@ -77,12 +126,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2018-12-01 11:26:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2018-12-01 10:11:14 +0000"
@@ -112,24 +155,5 @@
       "has_planks": "2018-12-01 10:13:44 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/decorations/lime_glazed_terracotta": {
-    "criteria": {
-      "has_lime_terracotta": "2018-12-01 10:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2018-12-01 10:13:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2018-12-01 09:59:50 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 09:56:27 +0000"
-    },
-    "done": false
   }
 }
