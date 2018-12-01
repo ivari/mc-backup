@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2018-12-01 11:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-12-01 11:08:08 +0000"
@@ -77,6 +83,12 @@
       "minecraft:snowy_tundra": "2018-12-01 11:08:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2018-12-01 11:32:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
