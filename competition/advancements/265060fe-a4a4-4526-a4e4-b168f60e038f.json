@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2018-12-01 10:02:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2018-12-01 10:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2018-12-01 12:21:41 +0000"
     },
     "done": true
   },
@@ -17,15 +17,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "has_orange_terracotta": "2018-12-01 10:06:16 +0000"
+      "has_diamond": "2018-12-01 12:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2018-12-01 12:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-01 12:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_at_least_9_diamond": "2018-12-01 12:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2018-12-01 12:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2018-12-01 12:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2018-12-01 12:21:41 +0000"
     },
     "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-01 10:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2018-12-01 12:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2018-12-01 10:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-12-01 10:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2018-12-01 12:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2018-12-01 12:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2018-12-01 12:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2018-12-01 10:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2018-12-01 12:21:41 +0000"
     },
     "done": true
   },
@@ -36,9 +120,9 @@
     },
     "done": false
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
-      "crafting_table": "2018-12-01 10:16:19 +0000"
+      "has_diamond": "2018-12-01 12:21:41 +0000"
     },
     "done": true
   }
