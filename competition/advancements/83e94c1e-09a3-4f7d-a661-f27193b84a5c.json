@@ -23,9 +23,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-12-01 15:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:29:39 +0000"
     },
     "done": true
   },
@@ -35,9 +53,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2018-12-01 15:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:29:39 +0000"
     },
     "done": true
   },
@@ -60,9 +114,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2018-12-01 15:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:29:39 +0000"
     },
     "done": true
   },
@@ -75,6 +147,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2018-12-01 15:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:29:39 +0000"
     },
     "done": true
   },
@@ -99,6 +177,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-01 15:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:30:05 +0000"
     },
     "done": true
   },
@@ -138,9 +222,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2018-12-01 15:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:29:39 +0000"
     },
     "done": true
   },
@@ -159,6 +267,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2018-12-01 15:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:29:39 +0000"
     },
     "done": true
   },

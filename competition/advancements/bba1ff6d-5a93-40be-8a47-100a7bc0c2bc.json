@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2018-12-01 09:19:47 +0000"
@@ -8,6 +14,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2018-12-01 11:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
     },
     "done": true
   },
@@ -29,9 +41,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_stone_slab": "2018-12-01 09:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
     },
     "done": true
   },
@@ -71,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 09:02:12 +0000",
@@ -84,9 +126,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2018-12-01 19:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
     },
     "done": true
   },
@@ -186,6 +240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2018-12-01 10:40:52 +0000"
@@ -216,6 +276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2018-12-01 11:15:47 +0000"
@@ -240,9 +306,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp_block": "2018-12-01 11:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
     },
     "done": true
   },
@@ -273,6 +351,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2018-12-01 11:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
     },
     "done": true
   },
@@ -318,15 +402,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2018-12-01 10:40:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-12-01 11:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2018-12-01 19:16:19 +0000"
     },
     "done": true
   },

@@ -5,45 +5,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_sand": "2018-12-01 10:07:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-01 10:07:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+  "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
-      "has_sand": "2018-12-01 10:07:37 +0000"
+      "has_planks": "2018-12-01 19:23:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2018-12-01 12:35:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2018-12-01 12:41:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2018-12-01 10:07:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2018-12-01 10:17:48 +0000"
     },
     "done": true
   },
@@ -71,15 +47,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
-      "has_stone": "2018-12-01 09:55:49 +0000"
+      "has_cyan_terracotta": "2018-12-01 19:21:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
-      "has_at_least_9_redstone": "2018-12-01 12:41:45 +0000"
+      "has_planks": "2018-12-01 19:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:55:49 +0000"
     },
     "done": true
   },
@@ -89,21 +71,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2018-12-01 12:41:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-01 10:07:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_axe": "2018-12-01 11:28:13 +0000"
     },
     "done": true
   },
@@ -120,12 +90,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2018-12-01 12:35:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2018-12-01 10:07:37 +0000"
@@ -138,9 +102,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_sand": "2018-12-01 10:07:37 +0000"
+      "has_planks": "2018-12-01 19:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2018-12-01 19:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2018-12-01 19:21:25 +0000"
     },
     "done": true
   },
@@ -168,18 +144,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_axe": "2018-12-01 12:15:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2018-12-01 12:41:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2018-12-01 12:35:20 +0000"
@@ -192,9 +156,9 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
-      "stone_pickaxe": "2018-12-01 09:52:31 +0000"
+      "has_planks": "2018-12-01 19:23:46 +0000"
     },
     "done": true
   },
@@ -210,15 +174,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-12-01 10:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2018-12-01 10:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2018-12-01 10:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2018-12-01 10:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2018-12-01 10:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2018-12-01 12:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2018-12-01 10:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-01 10:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2018-12-01 19:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-12-01 12:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2018-12-01 12:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2018-12-01 11:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-12-01 12:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2018-12-01 10:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2018-12-01 12:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2018-12-01 12:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2018-12-01 09:52:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2018-12-01 09:55:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
-      "in_water": "2018-12-01 10:17:48 +0000"
+      "has_planks": "2018-12-01 19:23:46 +0000"
     },
     "done": true
   },
@@ -246,39 +348,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2018-12-01 09:55:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2018-12-01 09:55:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-01 10:07:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
-      "in_water": "2018-12-01 10:17:48 +0000"
+      "has_planks": "2018-12-01 19:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:23:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-01 10:07:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2018-12-01 10:17:48 +0000"
     },
     "done": true
   },

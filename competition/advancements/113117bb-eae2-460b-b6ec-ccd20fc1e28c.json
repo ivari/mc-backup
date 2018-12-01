@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-01 18:41:41 +0000"
@@ -26,6 +32,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-01 18:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:11:32 +0000"
     },
     "done": true
   },
@@ -89,12 +101,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 18:32:46 +0000",
       "minecraft:snowy_tundra": "2018-12-01 18:32:18 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:11:32 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
@@ -126,6 +150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-01 18:41:41 +0000"
@@ -141,6 +171,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-12-01 18:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:11:32 +0000"
     },
     "done": true
   },
@@ -168,9 +204,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2018-12-01 18:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:11:32 +0000"
     },
     "done": true
   },
@@ -180,9 +234,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-01 18:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2018-12-01 19:11:32 +0000"
     },
     "done": true
   },
