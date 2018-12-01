@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2018-12-01 11:19:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2018-12-01 11:19:47 +0000"
@@ -17,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-01 14:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2018-12-01 11:19:43 +0000"
@@ -26,6 +26,55 @@
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2018-12-01 11:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-01 13:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-01 11:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-01 11:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2018-12-01 14:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-01 11:10:57 +0000",
+      "minecraft:snowy_tundra": "2018-12-01 11:10:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-12-01 11:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2018-12-01 11:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2018-12-01 14:34:12 +0000"
     },
     "done": true
   },
@@ -47,12 +96,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2018-12-01 13:46:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-12-01 11:10:34 +0000"
@@ -65,19 +108,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-12-01 14:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2018-12-01 13:46:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_door": {
+  "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "has_planks": "2018-12-01 11:19:43 +0000"
+      "in_water": "2018-12-01 14:34:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
+  "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2018-12-01 11:19:43 +0000"
     },
@@ -107,28 +156,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2018-12-01 11:19:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-12-01 11:19:43 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "minecraft:forest": "2018-12-01 11:10:57 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 11:10:35 +0000"
+      "in_water": "2018-12-01 14:34:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "has_quartz_block": "2018-12-01 11:19:47 +0000"
+      "in_water": "2018-12-01 14:34:12 +0000"
     },
     "done": true
   }
