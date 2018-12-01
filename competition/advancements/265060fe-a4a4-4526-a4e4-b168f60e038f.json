@@ -17,21 +17,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2018-12-01 12:21:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-12-01 12:21:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "has_lots_of_items": "2018-12-01 12:22:54 +0000"
+      "has_diamond": "2018-12-01 12:21:41 +0000"
     },
     "done": true
   },
@@ -41,7 +35,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-01 12:22:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2018-12-01 12:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2018-12-01 12:21:41 +0000"
     },
@@ -50,12 +56,6 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2018-12-01 12:21:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2018-12-01 12:21:41 +0000"
     },
     "done": true
   },
