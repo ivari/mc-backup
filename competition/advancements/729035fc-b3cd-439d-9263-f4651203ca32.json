@@ -17,6 +17,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-01 09:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2018-12-01 09:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2018-12-01 09:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2018-12-01 09:17:37 +0000"

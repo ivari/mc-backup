@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-01 09:38:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2018-12-01 09:21:38 +0000"
@@ -117,6 +123,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2018-12-01 09:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-12-01 09:34:21 +0000"
     },
     "done": true
   }

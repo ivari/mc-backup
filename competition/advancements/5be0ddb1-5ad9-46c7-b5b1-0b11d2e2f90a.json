@@ -5,15 +5,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:27:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2018-12-01 09:17:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2018-12-01 09:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:27:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-01 09:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:27:16 +0000"
     },
     "done": true
   },
@@ -27,6 +57,12 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2018-12-01 09:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2018-12-01 09:28:34 +0000"
     },
     "done": true
   }

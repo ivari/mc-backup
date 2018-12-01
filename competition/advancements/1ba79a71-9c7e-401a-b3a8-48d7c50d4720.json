@@ -5,14 +5,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-01 09:24:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2018-12-01 09:29:01 +0000",
       "minecraft:snowy_tundra": "2018-12-01 09:24:53 +0000"
     },
     "done": false

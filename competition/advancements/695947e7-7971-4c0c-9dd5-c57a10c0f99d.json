@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2018-12-01 09:08:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2018-12-01 09:16:19 +0000"
@@ -12,12 +6,6 @@
     "done": true
   },
   "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2018-12-01 09:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2018-12-01 09:16:19 +0000"
     },
@@ -41,9 +29,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:38:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2018-12-01 09:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-12-01 09:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2018-12-01 09:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:38:04 +0000"
     },
     "done": true
   },
