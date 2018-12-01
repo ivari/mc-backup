@@ -1,19 +1,19 @@
 {
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2018-12-01 17:26:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2018-12-01 17:30:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_banner": {
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
-      "has_blue_wool": "2018-12-01 17:30:20 +0000"
+      "has_yellow_terracotta": "2018-12-01 19:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-01 19:33:52 +0000"
     },
     "done": true
   },
@@ -26,18 +26,6 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_shovel": "2018-12-01 18:44:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2018-12-01 17:54:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot": {
-    "criteria": {
-      "has_gold_ore": "2018-12-01 17:29:27 +0000"
     },
     "done": true
   },
@@ -59,17 +47,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2018-12-01 17:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-12-01 17:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2018-12-01 17:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2018-12-01 17:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2018-12-01 17:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 17:27:39 +0000",
       "minecraft:snowy_tundra": "2018-12-01 17:26:11 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2018-12-01 17:54:12 +0000"
-    },
-    "done": true
   }
 }
