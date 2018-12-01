@@ -1,25 +1,7 @@
 {
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2018-12-01 18:01:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2018-12-01 18:04:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2018-12-01 18:04:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2018-12-01 18:01:50 +0000"
     },
     "done": true
   },
@@ -29,15 +11,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "has_lots_of_items": "2018-12-01 18:05:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2018-12-01 17:51:31 +0000"
+      "has_diamond": "2018-12-01 18:01:50 +0000"
     },
     "done": true
   },
@@ -47,9 +23,82 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2018-12-01 18:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2018-12-01 18:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2018-12-01 18:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2018-12-01 18:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2018-12-01 18:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2018-12-01 18:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-01 17:28:18 +0000",
+      "minecraft:snowy_tundra": "2018-12-01 17:25:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2018-12-01 18:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2018-12-01 18:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2018-12-01 18:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2018-12-01 17:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-01 18:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2018-12-01 18:17:00 +0000"
     },
     "done": true
   },
@@ -59,9 +108,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_shovel": {
+  "minecraft:recipes/redstone/note_block": {
     "criteria": {
-      "has_diamond": "2018-12-01 18:01:50 +0000"
+      "has_redstone": "2018-12-01 18:04:44 +0000"
     },
     "done": true
   },
@@ -107,38 +156,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2018-12-01 18:01:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2018-12-01 18:04:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2018-12-01 18:01:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2018-12-01 18:01:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2018-12-01 17:28:18 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 17:25:47 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2018-12-01 18:01:50 +0000"
     },
