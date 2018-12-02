@@ -17,6 +17,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2018-12-02 09:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2018-12-02 08:55:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-01 10:28:29 +0000"
@@ -86,7 +98,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 10:31:26 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 10:28:29 +0000"
+      "minecraft:snowy_tundra": "2018-12-01 10:28:29 +0000",
+      "minecraft:savanna": "2018-12-02 08:53:25 +0000"
     },
     "done": false
   },

@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2018-12-02 08:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2018-12-01 13:33:15 +0000"
@@ -242,6 +248,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2018-12-01 15:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2018-12-02 08:42:32 +0000"
     },
     "done": true
   },
@@ -335,9 +347,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2018-12-02 08:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2018-12-02 08:42:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2018-12-01 16:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2018-12-02 08:47:57 +0000"
     },
     "done": true
   },
@@ -350,6 +380,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_chiseled_quartz_block": "2018-12-01 16:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2018-12-02 08:42:32 +0000"
     },
     "done": true
   },
@@ -562,6 +598,9 @@
       "minecraft:forest": "2018-12-01 13:11:33 +0000",
       "minecraft:taiga": "2018-12-02 08:32:09 +0000",
       "minecraft:snowy_tundra": "2018-12-01 13:11:02 +0000",
+      "minecraft:desert": "2018-12-02 09:00:02 +0000",
+      "minecraft:frozen_river": "2018-12-02 09:00:22 +0000",
+      "minecraft:snowy_taiga": "2018-12-02 08:59:38 +0000",
       "minecraft:savanna": "2018-12-01 20:19:03 +0000"
     },
     "done": false
@@ -647,6 +686,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2018-12-01 16:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2018-12-02 08:42:25 +0000"
     },
     "done": true
   },
