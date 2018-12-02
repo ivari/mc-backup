@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2018-12-02 07:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-01 14:18:53 +0000"
@@ -204,6 +210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-12-02 07:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2018-12-01 14:34:17 +0000"
@@ -225,6 +237,18 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2018-12-01 14:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2018-12-02 07:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2018-12-02 07:04:54 +0000"
     },
     "done": true
   },
@@ -285,6 +309,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-01 14:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-02 07:04:54 +0000"
     },
     "done": true
   },
@@ -351,6 +381,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2018-12-01 11:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-02 07:04:54 +0000"
     },
     "done": true
   },
