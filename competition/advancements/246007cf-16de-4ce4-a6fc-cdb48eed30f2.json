@@ -47,15 +47,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2018-12-01 16:11:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2018-12-01 15:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2018-12-01 16:11:37 +0000"
     },
     "done": true
   },
@@ -83,9 +83,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_planks": "2018-12-01 16:06:13 +0000"
+      "has_redstone_block": "2018-12-01 15:59:10 +0000"
     },
     "done": true
   },
@@ -95,9 +95,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_redstone_block": "2018-12-01 15:59:10 +0000"
+      "has_planks": "2018-12-01 16:06:13 +0000"
     },
     "done": true
   },
@@ -654,13 +654,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+  "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 16:03:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glass_pane": {
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 16:03:49 +0000"
     },
@@ -768,13 +768,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 16:03:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 16:03:49 +0000"
     },
