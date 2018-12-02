@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2018-12-02 19:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2018-12-02 12:38:50 +0000"
@@ -410,6 +416,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-12-01 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2018-12-02 19:14:23 +0000"
     },
     "done": true
   },

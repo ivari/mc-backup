@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2018-12-02 19:57:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2018-12-01 11:27:23 +0000"
@@ -719,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-12-02 19:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2018-12-01 11:27:50 +0000"
@@ -836,6 +848,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2018-12-01 11:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2018-12-02 20:06:31 +0000"
     },
     "done": true
   },

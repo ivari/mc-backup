@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2018-12-02 20:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2018-12-02 15:18:47 +0000"
@@ -338,6 +344,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2018-12-01 21:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2018-12-02 20:18:33 +0000"
     },
     "done": true
   },
@@ -479,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2018-12-02 20:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2018-12-01 19:50:37 +0000"
@@ -512,6 +530,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2018-12-02 15:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2018-12-02 20:38:19 +0000"
     },
     "done": true
   },
@@ -669,6 +693,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2018-12-01 14:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2018-12-02 20:18:33 +0000"
     },
     "done": true
   },

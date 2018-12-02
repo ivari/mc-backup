@@ -5,21 +5,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2018-12-01 15:53:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2018-12-02 18:23:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_logs": "2018-12-01 15:52:55 +0000"
     },
     "done": true
   },
@@ -35,15 +23,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2018-12-01 15:53:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2018-12-01 15:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2018-12-02 19:54:38 +0000"
     },
     "done": true
   },
@@ -53,9 +41,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
+  "minecraft:recipes/decorations/green_bed": {
     "criteria": {
-      "has_terracotta": "2018-12-02 18:46:53 +0000"
+      "has_green_wool": "2018-12-02 19:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2018-12-02 19:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-02 19:47:17 +0000"
     },
     "done": true
   },
@@ -65,27 +65,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_brick_block": "2018-12-01 15:53:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_stone_slab": "2018-12-02 18:10:08 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
-      "get_stone": "2018-12-01 15:54:38 +0000"
+      "has_lime_wool": "2018-12-02 19:55:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
-      "has_cobblestone": "2018-12-01 15:54:38 +0000"
+      "has_bonemeal": "2018-12-02 19:47:17 +0000"
     },
     "done": true
   },
@@ -95,34 +89,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
-      "has_cobblestone": "2018-12-01 15:54:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2018-12-02 18:46:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2018-12-02 18:05:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2018-12-01 15:51:34 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 15:50:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2018-12-01 15:52:55 +0000"
+      "has_red_dye": "2018-12-02 19:52:21 +0000"
     },
     "done": true
   },
@@ -132,15 +101,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
-      "has_stick": "2018-12-02 18:23:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2018-12-01 15:53:49 +0000"
+      "has_bonemeal": "2018-12-02 19:47:17 +0000"
     },
     "done": true
   },
@@ -150,21 +113,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "in_water": "2018-12-02 18:10:07 +0000"
+      "has_lots_of_items": "2018-12-02 19:51:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "has_cobblestone": "2018-12-01 15:54:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2018-12-01 15:54:38 +0000"
+      "has_wool": "2018-12-02 19:43:26 +0000"
     },
     "done": true
   },
@@ -174,33 +131,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-12-02 19:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-12-01 15:50:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2018-12-02 18:10:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2018-12-01 15:54:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-02 18:46:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2018-12-01 15:53:05 +0000"
     },
     "done": true
   },
@@ -228,21 +173,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2018-12-01 15:55:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-12-01 15:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2018-12-02 18:10:07 +0000"
     },
     "done": true
   },
@@ -264,33 +197,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2018-12-01 15:54:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-02 18:46:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
-      "in_water": "2018-12-02 18:10:07 +0000"
+      "has_bonemeal": "2018-12-02 19:47:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-02 18:46:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_brick_block": "2018-12-01 15:53:39 +0000"
     },
     "done": true
   },
@@ -336,15 +257,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+  "minecraft:recipes/decorations/red_banner": {
     "criteria": {
-      "has_red_sandstone": "2018-12-01 15:53:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2018-12-01 15:53:49 +0000"
+      "has_red_wool": "2018-12-02 19:43:26 +0000"
     },
     "done": true
   },
@@ -366,21 +281,9 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "minecraft:story/root": {
     "criteria": {
-      "stone_pickaxe": "2018-12-01 15:50:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
-    "criteria": {
-      "has_terracotta": "2018-12-02 18:46:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2018-12-01 15:53:05 +0000"
+      "crafting_table": "2018-12-02 19:47:10 +0000"
     },
     "done": true
   },
@@ -390,27 +293,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_terracotta": {
-    "criteria": {
-      "has_terracotta": "2018-12-02 18:46:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2018-12-02 18:10:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-02 18:46:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2018-12-01 15:54:38 +0000"
     },
     "done": true
   },
@@ -423,6 +308,296 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-02 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2018-12-02 19:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2018-12-02 19:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2018-12-01 15:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2018-12-01 15:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2018-12-01 15:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2018-12-02 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2018-12-01 15:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2018-12-01 15:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2018-12-01 15:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2018-12-01 15:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2018-12-02 19:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2018-12-02 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2018-12-02 18:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2018-12-02 19:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-01 15:51:34 +0000",
+      "minecraft:taiga": "2018-12-02 20:38:59 +0000",
+      "minecraft:snowy_tundra": "2018-12-01 15:50:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2018-12-01 15:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2018-12-02 18:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2018-12-01 15:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2018-12-02 20:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2018-12-02 18:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2018-12-01 15:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2018-12-01 15:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2018-12-02 19:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2018-12-02 19:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-02 19:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-12-02 18:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2018-12-01 15:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2018-12-01 15:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-01 15:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2018-12-02 19:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2018-12-02 18:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2018-12-01 15:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-02 18:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2018-12-02 19:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2018-12-01 15:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2018-12-02 19:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2018-12-01 15:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2018-12-01 15:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2018-12-02 19:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2018-12-01 15:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2018-12-02 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2018-12-02 19:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-01 15:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-02 18:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2018-12-02 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2018-12-02 19:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2018-12-01 15:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-12-02 19:47:17 +0000"
     },
     "done": true
   }

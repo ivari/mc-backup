@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-12-01 13:33:45 +0000"
@@ -71,9 +77,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2018-12-02 19:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_gray_dye": "2018-12-01 11:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2018-12-02 19:19:45 +0000"
     },
     "done": true
   },
@@ -98,6 +122,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2018-12-02 14:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
     },
     "done": true
   },
@@ -173,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2018-12-02 14:10:02 +0000"
@@ -182,6 +218,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2018-12-01 14:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2018-12-02 19:19:24 +0000"
     },
     "done": true
   },
@@ -221,6 +263,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2018-12-01 13:12:28 +0000"
@@ -230,6 +284,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2018-12-01 14:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
     },
     "done": true
   },
@@ -311,6 +371,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-12-02 19:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2018-12-02 15:04:32 +0000"
@@ -341,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2018-12-02 19:10:52 +0000"
@@ -350,6 +428,12 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2018-12-01 13:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2018-12-02 19:15:35 +0000"
     },
     "done": true
   },
@@ -374,6 +458,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2018-12-01 14:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2018-12-02 19:19:24 +0000"
     },
     "done": true
   },
@@ -429,6 +519,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2018-12-01 11:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
     },
     "done": true
   },
@@ -540,6 +636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2018-12-02 19:19:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2018-12-02 14:14:35 +0000"
@@ -579,6 +681,24 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2018-12-02 14:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2018-12-02 19:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2018-12-02 19:19:45 +0000"
     },
     "done": true
   },
@@ -672,9 +792,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2018-12-02 19:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2018-12-02 19:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2018-12-01 12:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-02 19:15:35 +0000"
     },
     "done": true
   }

@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2018-12-02 19:22:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-01 17:39:14 +0000"
@@ -18,5 +24,11 @@
       "minecraft:jungle": "2018-12-02 19:03:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2018-12-02 19:22:55 +0000"
+    },
+    "done": true
   }
 }
