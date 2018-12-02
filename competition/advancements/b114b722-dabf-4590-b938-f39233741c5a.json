@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2018-12-02 16:12:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_pillar": "2018-12-01 15:26:11 +0000"
@@ -326,6 +332,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2018-12-02 14:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2018-12-02 16:39:07 +0000"
     },
     "done": true
   },
@@ -555,6 +567,7 @@
     "criteria": {
       "minecraft:forest": "2018-12-01 11:18:31 +0000",
       "minecraft:snowy_tundra": "2018-12-01 11:18:08 +0000",
+      "minecraft:desert": "2018-12-02 16:45:04 +0000",
       "minecraft:savanna": "2018-12-01 21:25:06 +0000"
     },
     "done": false
@@ -616,6 +629,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2018-12-01 20:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2018-12-02 16:13:17 +0000"
     },
     "done": true
   },

@@ -1,7 +1,7 @@
 {
-  "minecraft:recipes/redstone/redstone": {
+  "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
-      "has_redstone_block": "2018-12-01 17:54:43 +0000"
+      "has_cobblestone": "2018-12-02 16:50:32 +0000"
     },
     "done": true
   },
@@ -11,19 +11,86 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2018-12-02 16:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_light_blue_wool": "2018-12-01 17:56:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2018-12-02 16:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-12-01 17:54:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-01 17:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2018-12-01 17:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2018-12-02 16:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2018-12-02 16:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2018-12-02 16:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2018-12-02 16:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-01 13:19:17 +0000",
+      "minecraft:snowy_tundra": "2018-12-01 13:17:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2018-12-02 16:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2018-12-01 17:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2018-12-01 17:54:38 +0000"
     },
@@ -47,6 +114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2018-12-02 16:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2018-12-01 17:56:54 +0000"
@@ -59,21 +132,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_stone": "2018-12-01 17:39:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2018-12-01 17:56:54 +0000"
+      "has_cobblestone": "2018-12-02 16:50:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2018-12-01 17:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2018-12-01 17:56:54 +0000"
     },
     "done": true
   },
@@ -95,15 +168,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "has_redstone": "2018-12-01 17:54:38 +0000"
+      "has_cobblestone": "2018-12-02 16:50:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed": {
+  "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "has_light_blue_wool": "2018-12-01 17:56:54 +0000"
+      "has_cobblestone": "2018-12-02 16:50:32 +0000"
     },
     "done": true
   },
@@ -113,18 +186,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2018-12-01 17:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2018-12-01 17:39:14 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2018-12-01 13:19:17 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 13:17:23 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {

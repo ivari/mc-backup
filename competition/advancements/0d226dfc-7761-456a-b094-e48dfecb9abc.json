@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2018-12-02 17:33:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2018-12-01 09:16:54 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 21:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2018-12-02 17:02:51 +0000"
     },
     "done": true
   },
@@ -428,6 +440,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2018-12-01 10:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2018-12-02 17:33:33 +0000"
     },
     "done": true
   },
@@ -782,6 +800,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2018-12-01 16:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2018-12-02 17:33:35 +0000"
     },
     "done": true
   },
@@ -1143,6 +1167,7 @@
     "criteria": {
       "minecraft:forest": "2018-12-01 09:06:18 +0000",
       "minecraft:snowy_tundra": "2018-12-01 09:03:35 +0000",
+      "minecraft:jungle": "2018-12-02 17:14:36 +0000",
       "minecraft:savanna": "2018-12-01 21:18:10 +0000"
     },
     "done": false
