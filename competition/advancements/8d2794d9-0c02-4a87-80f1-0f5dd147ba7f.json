@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2018-12-02 09:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2018-12-01 09:45:06 +0000"
@@ -278,6 +284,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 11:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2018-12-02 09:58:59 +0000"
     },
     "done": true
   },
@@ -537,6 +549,7 @@
     "criteria": {
       "minecraft:forest": "2018-12-01 09:02:57 +0000",
       "minecraft:snowy_tundra": "2018-12-01 09:01:17 +0000",
+      "minecraft:desert": "2018-12-02 10:46:44 +0000",
       "minecraft:savanna": "2018-12-01 21:18:25 +0000"
     },
     "done": false
@@ -727,9 +740,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2018-12-02 09:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2018-12-01 09:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2018-12-02 09:59:27 +0000"
     },
     "done": true
   },
@@ -829,6 +854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2018-12-02 09:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2018-12-01 11:16:54 +0000"
@@ -856,6 +887,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2018-12-01 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2018-12-02 09:58:59 +0000"
     },
     "done": true
   },

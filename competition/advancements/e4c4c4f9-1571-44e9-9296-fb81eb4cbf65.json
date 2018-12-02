@@ -1,5 +1,5 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2018-12-02 08:41:38 +0000"
     },
@@ -11,7 +11,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2018-12-02 08:41:38 +0000"
     },
@@ -23,9 +23,27 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2018-12-02 10:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2018-12-02 10:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2018-12-02 08:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2018-12-02 10:35:59 +0000"
     },
     "done": true
   },
@@ -41,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2018-12-02 10:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-12-02 08:36:50 +0000"
@@ -53,15 +77,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2018-12-02 08:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2018-12-02 08:41:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_fence": {
+  "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
-      "has_planks": "2018-12-02 08:41:38 +0000"
+      "has_light_blue_wool": "2018-12-02 10:35:59 +0000"
     },
     "done": true
   },

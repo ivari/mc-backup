@@ -5,6 +5,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2018-12-02 10:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2018-12-02 10:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2018-12-02 10:09:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-02 09:54:22 +0000"
@@ -13,8 +31,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_tundra": "2018-12-02 09:54:22 +0000"
+      "minecraft:forest": "2018-12-02 10:00:30 +0000",
+      "minecraft:snowy_tundra": "2018-12-02 09:54:22 +0000",
+      "minecraft:savanna": "2018-12-02 10:00:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2018-12-02 10:09:19 +0000"
+    },
+    "done": true
   }
 }
