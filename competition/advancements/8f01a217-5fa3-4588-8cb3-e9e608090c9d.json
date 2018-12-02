@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2018-12-02 15:33:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2018-12-01 12:32:38 +0000"
@@ -38,6 +44,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2018-12-01 13:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp_block": "2018-12-02 15:33:58 +0000"
     },
     "done": true
   },
@@ -71,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2018-12-02 15:31:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_lapis": "2018-12-01 13:57:25 +0000"
@@ -87,6 +105,7 @@
     "criteria": {
       "minecraft:forest": "2018-12-01 09:50:36 +0000",
       "minecraft:snowy_tundra": "2018-12-01 09:49:37 +0000",
+      "minecraft:jungle": "2018-12-02 15:30:05 +0000",
       "minecraft:savanna": "2018-12-02 13:53:32 +0000"
     },
     "done": false
@@ -112,6 +131,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2018-12-02 14:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2018-12-02 15:31:59 +0000"
     },
     "done": true
   },
@@ -214,6 +239,18 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2018-12-01 12:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2018-12-02 15:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2018-12-02 15:31:59 +0000"
     },
     "done": true
   }
