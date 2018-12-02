@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2018-12-02 12:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2018-12-01 09:19:29 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2018-12-01 14:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2018-12-02 12:08:08 +0000"
     },
     "done": true
   },
@@ -803,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2018-12-02 13:22:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2018-12-01 09:19:29 +0000"
@@ -1040,7 +1058,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 09:04:25 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 09:03:47 +0000"
+      "minecraft:snowy_tundra": "2018-12-01 09:03:47 +0000",
+      "minecraft:jungle": "2018-12-02 12:37:00 +0000"
     },
     "done": false
   },
