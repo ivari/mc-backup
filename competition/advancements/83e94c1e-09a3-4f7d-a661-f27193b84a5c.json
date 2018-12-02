@@ -86,7 +86,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 15:46:25 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 15:45:27 +0000"
+      "minecraft:snowy_tundra": "2018-12-01 15:45:27 +0000",
+      "minecraft:savanna": "2018-12-02 13:58:49 +0000"
     },
     "done": false
   },
@@ -99,6 +100,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2018-12-02 13:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2018-12-02 14:06:37 +0000"
     },
     "done": true
   },
@@ -129,6 +136,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2018-12-01 15:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2018-12-02 14:07:13 +0000"
     },
     "done": true
   },
@@ -300,6 +313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2018-12-02 14:07:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2018-12-01 15:52:53 +0000"
@@ -321,6 +340,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2018-12-01 19:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2018-12-02 14:07:16 +0000"
     },
     "done": true
   },
