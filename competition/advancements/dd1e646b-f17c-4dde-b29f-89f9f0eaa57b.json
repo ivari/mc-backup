@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2018-12-02 06:56:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-01 14:12:44 +0000"
@@ -467,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2018-12-02 06:54:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-12-01 09:37:31 +0000"
@@ -536,7 +548,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 09:03:49 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 09:02:31 +0000"
+      "minecraft:snowy_tundra": "2018-12-01 09:02:31 +0000",
+      "minecraft:savanna": "2018-12-02 06:53:44 +0000"
     },
     "done": false
   },
