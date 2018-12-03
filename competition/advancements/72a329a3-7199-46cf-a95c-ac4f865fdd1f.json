@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2018-12-03 18:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2018-12-01 11:16:22 +0000"
@@ -1114,6 +1120,7 @@
       "minecraft:forest": "2018-12-01 09:33:33 +0000",
       "minecraft:snowy_tundra": "2018-12-01 09:33:05 +0000",
       "minecraft:desert": "2018-12-02 10:46:42 +0000",
+      "minecraft:warm_ocean": "2018-12-03 18:06:48 +0000",
       "minecraft:savanna": "2018-12-01 21:18:38 +0000"
     },
     "done": false
