@@ -65,9 +65,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_banner": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
-      "has_lime_wool": "2018-12-02 19:12:31 +0000"
+      "has_white_wool": "2018-12-02 19:07:58 +0000"
     },
     "done": true
   },
@@ -77,9 +77,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
+  "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
-      "has_white_wool": "2018-12-02 19:07:58 +0000"
+      "has_lime_wool": "2018-12-02 19:12:31 +0000"
     },
     "done": true
   },
@@ -323,13 +323,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-02 12:55:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-02 12:55:21 +0000"
     },
@@ -425,15 +425,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2018-12-01 10:11:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2018-12-01 10:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2018-12-01 10:11:40 +0000"
     },
     "done": true
   },
