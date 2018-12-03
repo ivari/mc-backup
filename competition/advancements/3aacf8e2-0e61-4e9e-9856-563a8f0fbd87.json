@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2018-12-03 19:44:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-02 16:25:09 +0000"

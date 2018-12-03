@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2018-12-03 19:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2018-12-01 18:56:38 +0000"
@@ -173,6 +179,18 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2018-12-02 20:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2018-12-03 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2018-12-03 19:57:29 +0000"
     },
     "done": true
   },
@@ -347,6 +365,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_chiseled_red_sandstone": "2018-12-01 18:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-12-03 19:57:29 +0000"
     },
     "done": true
   },

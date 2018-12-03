@@ -65,15 +65,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone": {
-    "criteria": {
-      "has_vine": "2018-12-03 19:15:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2018-12-03 18:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2018-12-03 19:15:17 +0000"
     },
     "done": true
   },
@@ -113,15 +113,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_stone": "2018-12-03 19:13:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2018-12-03 19:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2018-12-03 19:13:12 +0000"
     },
     "done": true
   },
@@ -156,15 +156,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2018-12-03 19:12:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2018-12-03 18:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2018-12-03 19:12:20 +0000"
     },
     "done": true
   },
@@ -480,15 +480,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2018-12-03 19:12:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2018-12-03 18:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2018-12-03 19:12:20 +0000"
     },
     "done": true
   },

@@ -1,7 +1,25 @@
 {
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
-      "has_stone_pickaxe": "2018-12-03 17:28:18 +0000"
+      "has_cobblestone": "2018-12-03 19:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2018-12-03 19:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2018-12-03 19:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2018-12-03 19:35:47 +0000"
     },
     "done": true
   },
@@ -11,18 +29,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2018-12-03 19:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-03 17:28:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2018-12-03 19:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-12-03 17:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2018-12-03 19:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2018-12-03 19:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2018-12-03 19:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2018-12-03 19:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2018-12-03 19:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2018-12-03 19:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-03 19:14:51 +0000",
+      "minecraft:taiga": "2018-12-03 19:28:43 +0000",
       "minecraft:snowy_tundra": "2018-12-03 17:28:19 +0000",
-      "minecraft:jungle": "2018-12-03 19:17:35 +0000"
+      "minecraft:jungle": "2018-12-03 19:17:35 +0000",
+      "minecraft:warm_ocean": "2018-12-03 19:33:39 +0000",
+      "minecraft:savanna": "2018-12-03 19:33:15 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2018-12-03 19:35:47 +0000"
+    },
+    "done": true
   }
 }
