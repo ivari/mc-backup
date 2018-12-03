@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2018-12-03 14:26:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2018-12-03 14:34:36 +0000"
@@ -29,13 +23,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2018-12-03 14:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2018-12-03 14:34:36 +0000"
     },
@@ -47,9 +41,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "has_quartz_block": "2018-12-03 14:34:36 +0000"
+      "has_stone": "2018-12-03 20:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-12-03 14:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-12-03 20:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-12-03 20:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-03 20:18:38 +0000"
     },
     "done": true
   },
@@ -58,8 +76,15 @@
       "minecraft:forest": "2018-12-03 14:27:13 +0000",
       "minecraft:snowy_tundra": "2018-12-03 14:26:28 +0000",
       "minecraft:jungle": "2018-12-03 14:44:58 +0000",
-      "minecraft:warm_ocean": "2018-12-03 14:35:30 +0000"
+      "minecraft:warm_ocean": "2018-12-03 14:35:30 +0000",
+      "minecraft:savanna": "2018-12-03 20:27:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-12-03 14:34:36 +0000"
+    },
+    "done": true
   }
 }
