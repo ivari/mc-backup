@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2018-12-03 20:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-01 19:16:08 +0000"
@@ -203,9 +209,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2018-12-03 20:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2018-12-01 20:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2018-12-03 20:07:26 +0000"
     },
     "done": true
   },
@@ -311,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-03 20:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_pillar": "2018-12-01 19:19:36 +0000"
@@ -383,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-03 20:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_prismarine_bricks": "2018-12-01 21:00:23 +0000"
@@ -413,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-03 20:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2018-12-01 21:00:23 +0000"
@@ -440,6 +476,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-01 18:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2018-12-03 20:07:26 +0000"
     },
     "done": true
   },
@@ -552,6 +594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-03 20:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2018-12-01 20:55:10 +0000"
@@ -591,6 +639,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2018-12-01 20:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2018-12-03 20:07:26 +0000"
     },
     "done": true
   },
@@ -726,6 +780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2018-12-03 20:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2018-12-03 19:52:55 +0000"
@@ -753,6 +813,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-01 18:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2018-12-03 20:07:26 +0000"
     },
     "done": true
   },
