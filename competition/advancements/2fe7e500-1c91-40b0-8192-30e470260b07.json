@@ -50,7 +50,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 15:15:27 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 15:11:35 +0000"
+      "minecraft:snowy_tundra": "2018-12-01 15:11:35 +0000",
+      "minecraft:desert": "2018-12-03 15:42:38 +0000"
     },
     "done": false
   },
@@ -153,6 +154,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2018-12-01 15:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2018-12-03 15:37:04 +0000"
     },
     "done": true
   },
