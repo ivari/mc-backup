@@ -1,25 +1,19 @@
 {
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2018-12-03 18:46:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2018-12-03 18:57:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
+  "minecraft:recipes/tools/clock": {
     "criteria": {
-      "has_minecart": "2018-12-03 18:57:54 +0000"
+      "has_redstone": "2018-12-03 19:07:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "has_minecart": "2018-12-03 18:57:54 +0000"
+      "has_redstone": "2018-12-03 19:07:35 +0000"
     },
     "done": true
   },
@@ -35,9 +29,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2018-12-03 19:07:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2018-12-03 18:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2018-12-03 19:07:35 +0000"
     },
     "done": true
   },
@@ -59,6 +65,60 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-03 19:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-12-03 18:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-12-03 19:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2018-12-03 19:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2018-12-03 18:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2018-12-03 19:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2018-12-03 18:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-12-03 19:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-03 19:01:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2018-12-03 18:57:54 +0000"
@@ -69,7 +129,8 @@
     "criteria": {
       "minecraft:forest": "2018-12-03 18:48:55 +0000",
       "minecraft:snowy_tundra": "2018-12-03 18:46:39 +0000",
-      "minecraft:jungle": "2018-12-03 18:48:57 +0000"
+      "minecraft:jungle": "2018-12-03 18:48:57 +0000",
+      "minecraft:swamp": "2018-12-03 19:05:39 +0000"
     },
     "done": false
   }
