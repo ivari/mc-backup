@@ -1,11 +1,54 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-12-03 14:38:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-03 14:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2018-12-03 14:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-01 09:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-03 14:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2018-12-03 14:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-01 09:26:37 +0000",
+      "minecraft:snowy_tundra": "2018-12-01 09:11:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-12-03 14:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2018-12-03 14:38:14 +0000"
     },
@@ -29,9 +72,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "has_planks": "2018-12-03 14:38:14 +0000"
+      "in_water": "2018-12-03 14:46:40 +0000"
     },
     "done": true
   },
@@ -47,12 +90,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2018-12-01 09:36:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-12-01 09:11:33 +0000"
@@ -65,9 +102,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-12-03 14:46:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2018-12-03 14:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-03 14:46:40 +0000"
     },
     "done": true
   },
@@ -107,29 +156,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2018-12-03 14:46:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-12-03 14:38:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "has_planks": "2018-12-03 14:38:14 +0000"
+      "in_water": "2018-12-03 14:46:40 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2018-12-03 14:41:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2018-12-01 09:26:37 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 09:11:34 +0000"
-    },
-    "done": false
   }
 }
