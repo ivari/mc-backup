@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2018-12-04 13:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_glazed_terracotta": {
     "criteria": {
       "has_gray_terracotta": "2018-12-03 15:43:04 +0000"
@@ -301,6 +307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2018-12-04 13:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-02 06:45:32 +0000"
@@ -454,6 +466,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2018-12-04 10:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2018-12-04 13:34:00 +0000"
     },
     "done": true
   },

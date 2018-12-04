@@ -1,7 +1,37 @@
 {
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/transportation/rail": {
     "criteria": {
-      "has_stone_pickaxe": "2018-12-04 13:16:19 +0000"
+      "has_minecart": "2018-12-04 13:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2018-12-04 13:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2018-12-04 13:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2018-12-04 13:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2018-12-04 13:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2018-12-04 13:31:38 +0000"
     },
     "done": true
   },
@@ -11,12 +41,50 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2018-12-04 13:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-12-04 13:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2018-12-04 13:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2018-12-04 13:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2018-12-04 13:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2018-12-04 13:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-04 13:18:24 +0000",
       "minecraft:snowy_tundra": "2018-12-04 13:16:19 +0000",
       "minecraft:desert": "2018-12-04 13:22:55 +0000",
-      "minecraft:jungle": "2018-12-04 13:18:26 +0000"
+      "minecraft:jungle": "2018-12-04 13:18:26 +0000",
+      "minecraft:warm_ocean": "2018-12-04 13:26:38 +0000",
+      "minecraft:savanna": "2018-12-04 13:26:12 +0000"
     },
     "done": false
   }
