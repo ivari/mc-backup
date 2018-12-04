@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-04 12:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2018-12-02 20:19:07 +0000"
@@ -39,7 +45,8 @@
     "criteria": {
       "minecraft:forest": "2018-12-02 19:14:51 +0000",
       "minecraft:snowy_tundra": "2018-12-02 14:38:00 +0000",
-      "minecraft:jungle": "2018-12-02 19:21:47 +0000"
+      "minecraft:jungle": "2018-12-02 19:21:47 +0000",
+      "minecraft:savanna": "2018-12-04 12:07:34 +0000"
     },
     "done": false
   },
@@ -64,6 +71,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2018-12-04 08:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2018-12-04 12:07:03 +0000"
     },
     "done": true
   },
@@ -133,6 +146,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-12-04 12:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-04 12:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2018-12-02 20:07:55 +0000"
@@ -157,9 +182,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2018-12-04 12:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2018-12-02 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2018-12-04 12:07:03 +0000"
     },
     "done": true
   },
