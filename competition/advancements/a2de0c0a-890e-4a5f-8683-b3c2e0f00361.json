@@ -101,12 +101,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2018-12-02 12:39:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2018-12-02 12:39:14 +0000"
@@ -114,6 +108,12 @@
     "done": true
   },
   "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2018-12-02 12:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2018-12-02 12:39:14 +0000"
     },
