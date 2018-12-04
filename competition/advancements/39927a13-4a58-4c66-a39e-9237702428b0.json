@@ -1,19 +1,68 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2018-12-03 18:59:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-12-03 18:59:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-04 17:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2018-12-03 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-04 17:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-03 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-03 18:58:36 +0000",
+      "minecraft:snowy_tundra": "2018-12-03 18:55:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2018-12-04 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2018-12-03 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2018-12-04 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-04 17:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2018-12-04 17:05:55 +0000"
     },
     "done": true
   },
@@ -41,6 +90,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-12-04 17:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-12-04 17:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-04 17:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2018-12-03 18:59:47 +0000"
@@ -53,9 +120,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-12-04 17:07:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2018-12-03 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-04 17:07:46 +0000"
     },
     "done": true
   },
@@ -71,17 +150,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "has_planks": "2018-12-03 18:59:47 +0000"
+      "in_water": "2018-12-04 17:05:55 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "minecraft:forest": "2018-12-03 18:58:36 +0000",
-      "minecraft:snowy_tundra": "2018-12-03 18:55:20 +0000"
+      "in_water": "2018-12-04 17:05:55 +0000"
     },
-    "done": false
+    "done": true
   }
 }

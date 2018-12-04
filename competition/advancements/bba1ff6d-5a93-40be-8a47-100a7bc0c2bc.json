@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2018-12-04 17:09:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2018-12-04 16:47:43 +0000"
@@ -549,6 +555,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2018-12-04 15:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-12-04 17:08:51 +0000"
     },
     "done": true
   },

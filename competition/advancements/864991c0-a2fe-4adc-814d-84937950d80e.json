@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2018-12-04 17:26:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-02 08:15:19 +0000"
@@ -17,5 +23,11 @@
       "minecraft:snowy_tundra": "2018-12-02 08:15:20 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2018-12-04 17:26:53 +0000"
+    },
+    "done": true
   }
 }

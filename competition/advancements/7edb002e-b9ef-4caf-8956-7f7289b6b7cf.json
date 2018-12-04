@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2018-12-04 17:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 20:07:13 +0000"
@@ -302,6 +308,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_prismarine_bricks": "2018-12-03 19:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2018-12-04 17:00:24 +0000"
     },
     "done": true
   },

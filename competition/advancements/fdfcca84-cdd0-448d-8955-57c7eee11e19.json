@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2018-12-04 17:26:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2018-12-01 13:16:08 +0000"
@@ -321,6 +327,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2018-12-02 10:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2018-12-04 17:26:53 +0000"
     },
     "done": true
   },

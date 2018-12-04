@@ -31,6 +31,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2018-12-04 17:09:18 +0000",
       "minecraft:snowy_tundra": "2018-12-03 17:35:55 +0000"
     },
     "done": false
