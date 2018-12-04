@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2018-12-04 09:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-04 06:58:51 +0000"
@@ -13,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2018-12-04 09:18:28 +0000",
       "minecraft:snowy_tundra": "2018-12-04 06:58:51 +0000"
     },
     "done": false
