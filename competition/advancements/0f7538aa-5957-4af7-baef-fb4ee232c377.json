@@ -89,5 +89,11 @@
       "minecraft:snowy_tundra": "2018-12-02 17:20:33 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-12-04 12:10:51 +0000"
+    },
+    "done": true
   }
 }
