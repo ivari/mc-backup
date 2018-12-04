@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-12-04 20:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2018-12-02 14:17:30 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-12-01 12:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2018-12-04 20:35:24 +0000"
     },
     "done": true
   },
@@ -726,6 +738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2018-12-04 20:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2018-12-02 14:10:02 +0000"
@@ -786,9 +804,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-12-04 20:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2018-12-01 12:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-12-04 20:35:33 +0000"
     },
     "done": true
   },
@@ -921,6 +951,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2018-12-01 14:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2018-12-04 20:35:30 +0000"
     },
     "done": true
   },

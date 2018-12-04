@@ -59,13 +59,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-03 18:57:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-03 18:57:14 +0000"
     },
@@ -95,13 +95,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-03 18:57:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-03 18:57:14 +0000"
     },
