@@ -209,5 +209,11 @@
       "has_black_wool": "2018-12-04 13:31:45 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2018-12-04 13:55:08 +0000"
+    },
+    "done": true
   }
 }
