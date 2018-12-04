@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2018-12-04 12:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2018-12-02 19:07:58 +0000"
@@ -125,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2018-12-04 12:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2018-12-01 10:07:28 +0000"
@@ -164,6 +176,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2018-12-02 19:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2018-12-04 12:40:57 +0000"
     },
     "done": true
   },
@@ -233,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2018-12-04 12:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2018-12-02 19:09:31 +0000"
@@ -272,6 +296,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2018-12-01 10:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2018-12-04 12:40:57 +0000"
     },
     "done": true
   },
@@ -544,6 +574,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2018-12-02 14:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2018-12-04 12:40:57 +0000"
     },
     "done": true
   },
