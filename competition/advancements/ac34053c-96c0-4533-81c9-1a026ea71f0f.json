@@ -337,6 +337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2018-12-04 16:05:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2018-12-02 15:04:48 +0000"

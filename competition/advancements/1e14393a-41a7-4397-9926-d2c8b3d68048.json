@@ -5,6 +5,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2018-12-04 16:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2018-12-04 16:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2018-12-04 16:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2018-12-04 15:55:12 +0000"
@@ -17,11 +35,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2018-12-04 16:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-04 15:13:50 +0000",
       "minecraft:snowy_tundra": "2018-12-04 14:39:19 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-12-04 16:09:26 +0000"
+    },
+    "done": true
   }
 }
