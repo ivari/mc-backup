@@ -1,13 +1,43 @@
 {
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_stone_pickaxe": "2018-12-04 06:58:51 +0000"
+      "has_log": "2018-12-04 10:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2018-12-04 10:54:02 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2018-12-04 10:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2018-12-04 10:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-04 10:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2018-12-04 06:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-12-04 06:58:51 +0000"
     },
     "done": true
   },
@@ -26,12 +56,6 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2018-12-04 09:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2018-12-04 06:58:51 +0000"
     },
     "done": true
   },
