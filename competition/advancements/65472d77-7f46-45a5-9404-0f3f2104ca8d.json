@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2018-12-05 06:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2018-12-05 06:10:59 +0000"
@@ -117,6 +123,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2018-12-04 10:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2018-12-05 06:38:52 +0000"
     },
     "done": true
   },
