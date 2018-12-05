@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2018-12-05 14:43:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-03 15:52:34 +0000"
@@ -530,6 +536,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-12-04 15:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2018-12-05 14:51:07 +0000"
     },
     "done": true
   },
