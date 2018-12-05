@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-05 12:36:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2018-12-05 12:03:28 +0000"
@@ -20,6 +26,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2018-12-04 12:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-05 12:36:25 +0000"
     },
     "done": true
   },
@@ -41,15 +53,21 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
-      "get_stone": "2018-12-05 12:03:28 +0000"
+      "has_bonemeal": "2018-12-05 12:36:25 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2018-12-05 12:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2018-12-05 12:03:28 +0000"
     },
     "done": true
   },
@@ -77,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2018-12-05 12:36:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-04 12:06:57 +0000",
@@ -94,6 +118,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2018-12-04 12:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-05 12:36:25 +0000"
     },
     "done": true
   },
@@ -124,6 +154,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2018-12-05 12:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-05 12:36:25 +0000"
     },
     "done": true
   },
@@ -160,6 +196,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2018-12-04 12:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2018-12-05 12:36:25 +0000"
     },
     "done": true
   },
