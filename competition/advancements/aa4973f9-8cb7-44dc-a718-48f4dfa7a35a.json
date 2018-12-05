@@ -80,6 +80,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-02 10:17:14 +0000",
+      "minecraft:taiga": "2018-12-05 12:45:56 +0000",
       "minecraft:snowy_tundra": "2018-12-02 10:17:04 +0000",
       "minecraft:desert": "2018-12-04 16:56:04 +0000",
       "minecraft:jungle": "2018-12-04 17:11:02 +0000",
@@ -132,6 +133,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2018-12-03 11:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2018-12-05 12:46:19 +0000"
     },
     "done": true
   },
@@ -222,6 +229,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2018-12-02 12:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2018-12-05 12:42:58 +0000"
     },
     "done": true
   },
