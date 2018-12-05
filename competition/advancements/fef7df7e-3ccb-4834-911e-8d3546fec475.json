@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2018-12-04 20:32:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2018-12-04 20:40:24 +0000"
@@ -17,15 +11,61 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2018-12-03 14:29:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_logs": "2018-12-04 20:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-05 20:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2018-12-03 20:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-03 20:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-03 14:27:13 +0000",
+      "minecraft:snowy_tundra": "2018-12-03 14:26:28 +0000",
+      "minecraft:jungle": "2018-12-03 14:44:58 +0000",
+      "minecraft:warm_ocean": "2018-12-03 14:35:30 +0000",
+      "minecraft:savanna": "2018-12-03 20:27:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-12-03 14:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2018-12-04 20:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2018-12-05 20:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2018-12-03 14:29:43 +0000"
     },
     "done": true
   },
@@ -35,9 +75,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "has_nautilus_core": "2018-12-03 20:44:21 +0000"
+      "in_water": "2018-12-05 20:02:12 +0000"
     },
     "done": true
   },
@@ -65,9 +105,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "has_stone": "2018-12-03 20:18:38 +0000"
+      "has_log": "2018-12-05 19:39:44 +0000"
     },
     "done": true
   },
@@ -83,6 +123,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-12-05 20:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-05 20:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2018-12-05 19:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2018-12-03 20:18:38 +0000"
@@ -95,19 +153,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "minecraft:forest": "2018-12-03 14:27:13 +0000",
-      "minecraft:snowy_tundra": "2018-12-03 14:26:28 +0000",
-      "minecraft:jungle": "2018-12-03 14:44:58 +0000",
-      "minecraft:warm_ocean": "2018-12-03 14:35:30 +0000",
-      "minecraft:savanna": "2018-12-03 20:27:36 +0000"
+      "in_water": "2018-12-05 20:02:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "has_quartz_block": "2018-12-03 14:34:36 +0000"
+      "in_water": "2018-12-05 20:02:12 +0000"
     },
     "done": true
   }
