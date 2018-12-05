@@ -65,18 +65,18 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2018-12-05 14:05:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-05 13:45:32 +0000",
       "minecraft:snowy_tundra": "2018-12-05 13:43:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-12-05 14:05:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
