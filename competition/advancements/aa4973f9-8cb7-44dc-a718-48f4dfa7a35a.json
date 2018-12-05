@@ -280,6 +280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2018-12-05 15:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-02 10:45:23 +0000"

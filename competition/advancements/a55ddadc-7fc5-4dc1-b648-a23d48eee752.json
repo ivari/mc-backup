@@ -235,15 +235,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2018-12-04 20:56:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2018-12-04 20:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2018-12-04 20:56:47 +0000"
     },
     "done": true
   },

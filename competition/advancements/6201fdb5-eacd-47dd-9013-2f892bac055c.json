@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2018-12-05 15:30:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-01 23:26:15 +0000"
@@ -286,6 +292,12 @@
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_brown_terracotta": "2018-12-01 20:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2018-12-05 15:30:30 +0000"
     },
     "done": true
   },

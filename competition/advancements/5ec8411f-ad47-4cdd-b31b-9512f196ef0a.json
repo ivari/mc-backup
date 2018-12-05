@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2018-12-05 15:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_logs": "2018-12-03 15:48:30 +0000"
@@ -650,6 +656,12 @@
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-03 15:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2018-12-05 15:28:50 +0000"
     },
     "done": true
   },
@@ -895,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2018-12-05 15:27:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2018-12-03 12:36:02 +0000"
@@ -904,6 +922,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2018-12-03 12:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2018-12-05 15:27:37 +0000"
     },
     "done": true
   },
@@ -982,6 +1006,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-03 15:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2018-12-05 15:27:37 +0000"
     },
     "done": true
   },
