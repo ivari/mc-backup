@@ -350,7 +350,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 18:38:26 +0000",
-      "minecraft:snowy_tundra": "2018-12-01 18:32:46 +0000"
+      "minecraft:taiga": "2018-12-05 16:34:09 +0000",
+      "minecraft:snowy_tundra": "2018-12-01 18:32:46 +0000",
+      "minecraft:savanna": "2018-12-05 16:33:05 +0000"
     },
     "done": false
   },
@@ -444,13 +446,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane": {
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 20:17:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 20:17:40 +0000"
     },
@@ -492,13 +494,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+  "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 20:17:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glass_pane": {
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 20:17:40 +0000"
     },
