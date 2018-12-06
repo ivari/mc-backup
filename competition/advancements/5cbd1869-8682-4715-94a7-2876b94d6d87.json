@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2018-12-06 15:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2018-12-03 20:37:02 +0000"
@@ -470,7 +476,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-02 12:35:50 +0000",
-      "minecraft:snowy_tundra": "2018-12-02 12:33:39 +0000"
+      "minecraft:snowy_tundra": "2018-12-02 12:33:39 +0000",
+      "minecraft:desert": "2018-12-06 15:45:08 +0000",
+      "minecraft:jungle": "2018-12-06 15:42:07 +0000",
+      "minecraft:savanna": "2018-12-06 15:39:37 +0000"
     },
     "done": false
   },
@@ -510,6 +519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2018-12-06 15:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2018-12-05 20:37:39 +0000"
@@ -546,6 +561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-12-06 15:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2018-12-02 17:27:41 +0000"
@@ -558,6 +579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2018-12-06 15:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-05 21:30:12 +0000"
@@ -567,6 +594,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2018-12-04 21:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-06 15:50:27 +0000"
     },
     "done": true
   },
@@ -621,6 +654,12 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-03 18:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-06 15:50:27 +0000"
     },
     "done": true
   },
