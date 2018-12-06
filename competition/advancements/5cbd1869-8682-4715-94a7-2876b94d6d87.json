@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2018-12-06 15:30:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2018-12-03 18:47:38 +0000"
@@ -365,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2018-12-06 15:05:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2018-12-02 17:23:38 +0000"
@@ -471,6 +483,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2018-12-03 18:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2018-12-06 15:09:45 +0000"
     },
     "done": true
   },

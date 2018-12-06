@@ -79,6 +79,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-12-06 15:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2018-12-03 18:59:14 +0000"

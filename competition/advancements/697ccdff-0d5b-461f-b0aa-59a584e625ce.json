@@ -11,13 +11,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2018-12-06 14:11:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2018-12-06 14:11:09 +0000"
     },
