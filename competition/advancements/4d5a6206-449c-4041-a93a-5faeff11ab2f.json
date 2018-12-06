@@ -29,6 +29,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-06 14:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-06 14:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cactus_green": {
     "criteria": {
       "has_cactus": "2018-12-02 16:53:00 +0000"
@@ -44,6 +56,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2018-12-01 13:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-06 14:54:03 +0000"
     },
     "done": true
   },
@@ -71,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2018-12-06 14:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 11:30:00 +0000",
@@ -93,6 +117,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2018-12-02 15:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-06 14:54:03 +0000"
     },
     "done": true
   },
@@ -150,6 +180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-06 14:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-12-01 11:11:48 +0000"
@@ -171,6 +207,18 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2018-12-01 11:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-12-06 14:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-06 14:52:26 +0000"
     },
     "done": true
   },
@@ -207,6 +255,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2018-12-02 17:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-12-06 14:54:03 +0000"
     },
     "done": true
   },
@@ -303,6 +357,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2018-12-02 16:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-12-06 14:52:26 +0000"
     },
     "done": true
   },
