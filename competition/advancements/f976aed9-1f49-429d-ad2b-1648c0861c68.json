@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2018-12-06 13:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2018-12-04 19:48:35 +0000"
@@ -53,9 +59,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_planks": "2018-12-04 19:48:31 +0000"
+      "has_log": "2018-12-06 13:36:26 +0000"
     },
     "done": true
   },
@@ -65,9 +71,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-04 19:48:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-12-04 19:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2018-12-06 13:35:15 +0000"
     },
     "done": true
   },
@@ -99,6 +117,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2018-12-04 20:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2018-12-06 13:36:26 +0000"
     },
     "done": true
   },
