@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2018-12-06 16:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2018-12-03 17:44:30 +0000"
@@ -35,5 +41,11 @@
       "minecraft:snowy_tundra": "2018-12-03 17:35:55 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2018-12-06 16:50:05 +0000"
+    },
+    "done": true
   }
 }
