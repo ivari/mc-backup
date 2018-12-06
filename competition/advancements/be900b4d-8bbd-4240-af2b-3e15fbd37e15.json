@@ -366,13 +366,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
+  "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2018-12-04 16:09:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_wool": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2018-12-04 16:09:13 +0000"
     },
@@ -414,15 +414,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_bed": {
-    "criteria": {
-      "has_lime_wool": "2018-12-05 15:41:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2018-12-05 14:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2018-12-05 15:41:47 +0000"
     },
     "done": true
   }
