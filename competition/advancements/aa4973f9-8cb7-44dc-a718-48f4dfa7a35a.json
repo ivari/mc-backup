@@ -220,13 +220,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2018-12-04 14:26:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2018-12-04 14:26:05 +0000"
     },
