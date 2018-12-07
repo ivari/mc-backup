@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2018-12-07 19:57:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2018-12-06 17:29:41 +0000"
@@ -98,7 +104,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-06 16:59:58 +0000",
-      "minecraft:snowy_tundra": "2018-12-06 16:52:56 +0000"
+      "minecraft:snowy_tundra": "2018-12-06 16:52:56 +0000",
+      "minecraft:savanna": "2018-12-07 19:53:51 +0000"
     },
     "done": false
   },
@@ -153,6 +160,18 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2018-12-06 17:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2018-12-07 19:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2018-12-07 19:57:12 +0000"
     },
     "done": true
   },
@@ -345,6 +364,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2018-12-06 17:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-12-07 19:57:12 +0000"
     },
     "done": true
   },
