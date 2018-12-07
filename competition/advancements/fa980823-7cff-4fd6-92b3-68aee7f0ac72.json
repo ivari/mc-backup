@@ -106,6 +106,7 @@
       "minecraft:forest": "2018-12-01 09:53:33 +0000",
       "minecraft:snowy_tundra": "2018-12-01 09:49:05 +0000",
       "minecraft:jungle": "2018-12-02 17:01:48 +0000",
+      "minecraft:savanna": "2018-12-07 16:29:23 +0000",
       "minecraft:plains": "2018-12-06 20:44:29 +0000"
     },
     "done": false
@@ -128,25 +129,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2018-12-01 11:29:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 11:29:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
+  "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-01 11:29:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2018-12-01 11:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-01 11:29:36 +0000"
     },
@@ -194,13 +195,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2018-12-02 08:37:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2018-12-02 08:37:09 +0000"
     },
@@ -332,13 +333,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 11:29:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-01 11:29:36 +0000"
     },
@@ -458,13 +459,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glass_pane": {
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 11:29:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+  "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-12-01 11:29:36 +0000"
     },

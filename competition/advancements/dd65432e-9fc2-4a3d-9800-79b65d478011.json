@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2018-12-07 16:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2018-12-02 15:12:13 +0000"
@@ -32,6 +38,12 @@
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2018-12-05 17:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2018-12-07 16:50:20 +0000"
     },
     "done": true
   },
@@ -110,6 +122,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-12-04 17:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2018-12-07 16:50:55 +0000"
     },
     "done": true
   },
@@ -699,6 +717,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2018-12-05 16:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2018-12-07 16:50:17 +0000"
     },
     "done": true
   },

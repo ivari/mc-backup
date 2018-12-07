@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2018-12-07 16:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2018-12-07 14:43:29 +0000"
@@ -29,9 +35,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2018-12-07 16:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-12-07 13:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2018-12-07 16:05:30 +0000"
     },
     "done": true
   },
@@ -41,6 +59,12 @@
       "minecraft:snowy_tundra": "2018-12-07 13:06:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2018-12-07 16:05:30 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
