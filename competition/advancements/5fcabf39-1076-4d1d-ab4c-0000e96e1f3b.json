@@ -74,6 +74,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-06 19:45:27 +0000",
+      "minecraft:mountains": "2018-12-07 22:56:03 +0000",
       "minecraft:taiga": "2018-12-07 19:23:07 +0000",
       "minecraft:snowy_tundra": "2018-12-06 19:44:30 +0000"
     },
