@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2018-12-07 12:37:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-12-03 12:33:41 +0000"
@@ -308,6 +314,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-12-04 11:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2018-12-07 12:33:02 +0000"
     },
     "done": true
   },
