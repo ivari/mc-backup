@@ -23,9 +23,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-04 19:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:50 +0000"
     },
     "done": true
   },
@@ -35,9 +65,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-04 19:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:48 +0000"
     },
     "done": true
   },
@@ -50,6 +92,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-04 19:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:58 +0000"
     },
     "done": true
   },
@@ -83,9 +131,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_pillar": "2018-12-03 19:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:50 +0000"
     },
     "done": true
   },
@@ -110,6 +170,30 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-04 19:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:48 +0000"
     },
     "done": true
   },
@@ -149,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2018-12-06 20:10:15 +0000"
@@ -161,9 +251,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2018-12-06 20:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:54 +0000"
     },
     "done": true
   },
@@ -185,6 +287,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_pillar": "2018-12-03 19:44:10 +0000"
@@ -194,6 +314,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2018-12-04 05:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:53 +0000"
     },
     "done": true
   },
@@ -215,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_at_least_9_slime_ball": "2018-12-04 05:24:33 +0000"
@@ -224,6 +356,24 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2018-12-03 20:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:48 +0000"
     },
     "done": true
   },
@@ -245,15 +395,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2018-12-04 18:25:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-04 19:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:57 +0000"
     },
     "done": true
   },
@@ -269,9 +437,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-12-04 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:48 +0000"
     },
     "done": true
   },
@@ -308,6 +488,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2018-12-04 05:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:58 +0000"
     },
     "done": true
   },
@@ -393,6 +579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2018-12-04 05:47:08 +0000"
@@ -414,6 +606,18 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2018-12-04 05:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:48 +0000"
     },
     "done": true
   },
@@ -447,9 +651,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2018-12-07 06:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-04 19:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:54 +0000"
     },
     "done": true
   },
@@ -477,6 +705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-04 19:04:08 +0000"
@@ -486,6 +720,18 @@
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-04 19:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:58 +0000"
     },
     "done": true
   },
@@ -504,6 +750,18 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2018-12-04 05:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:53 +0000"
     },
     "done": true
   },
@@ -531,9 +789,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_boots": "2018-12-07 05:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:53 +0000"
     },
     "done": true
   },
@@ -561,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2018-12-07 05:59:02 +0000"
@@ -585,9 +873,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2018-12-03 20:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2018-12-07 06:08:05 +0000"
     },
     "done": true
   },
@@ -606,6 +912,18 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-04 19:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2018-12-07 06:04:48 +0000"
     },
     "done": true
   },
