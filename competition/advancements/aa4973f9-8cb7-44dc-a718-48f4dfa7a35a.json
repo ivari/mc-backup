@@ -130,6 +130,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-12-07 13:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2018-12-02 11:29:10 +0000"
@@ -187,6 +193,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2018-12-02 10:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2018-12-07 13:11:37 +0000"
     },
     "done": true
   },
@@ -475,6 +487,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2018-12-05 13:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2018-12-07 13:11:37 +0000"
     },
     "done": true
   },

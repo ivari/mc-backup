@@ -11,15 +11,166 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
-      "has_log": "2018-12-07 12:44:08 +0000"
+      "has_planks": "2018-12-07 13:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2018-12-07 13:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2018-12-07 13:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2018-12-07 13:06:18 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2018-12-06 14:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_rose_red": "2018-12-07 13:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2018-12-07 12:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-07 13:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-07 11:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_red_dye": "2018-12-07 13:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-06 14:12:34 +0000",
+      "minecraft:snowy_tundra": "2018-12-06 14:10:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-12-07 13:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2018-12-06 14:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2018-12-07 12:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2018-12-07 11:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-06 14:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-12-06 14:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2018-12-07 11:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2018-12-07 13:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2018-12-06 14:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2018-12-07 13:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2018-12-06 14:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-07 13:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2018-12-07 13:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2018-12-06 14:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2018-12-07 12:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_red_dye": "2018-12-07 13:19:42 +0000"
     },
     "done": true
   },
@@ -41,15 +192,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+  "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
-      "has_stone_slab": "2018-12-07 12:42:40 +0000"
+      "has_stone": "2018-12-07 13:18:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+  "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
-      "has_planks": "2018-12-07 11:41:38 +0000"
+      "has_planks": "2018-12-07 13:06:18 +0000"
     },
     "done": true
   },
@@ -65,34 +216,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2018-12-06 14:12:34 +0000",
-      "minecraft:snowy_tundra": "2018-12-06 14:10:41 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2018-12-06 14:11:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2018-12-07 12:44:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2018-12-07 12:06:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2018-12-07 11:41:38 +0000"
     },
     "done": true
   },
@@ -102,9 +228,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
+  "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
-      "has_planks": "2018-12-06 14:11:09 +0000"
+      "has_lapis_block": "2018-12-07 13:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2018-12-07 13:18:01 +0000"
     },
     "done": true
   },
@@ -114,9 +246,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:story/root": {
     "criteria": {
-      "has_stone_pickaxe": "2018-12-06 14:10:41 +0000"
+      "crafting_table": "2018-12-07 13:18:24 +0000"
     },
     "done": true
   },
@@ -126,15 +258,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_button": {
+  "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
-      "has_planks": "2018-12-07 11:41:38 +0000"
+      "has_planks": "2018-12-07 13:06:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_door": {
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
-      "has_planks": "2018-12-06 14:11:09 +0000"
+      "has_red_dye": "2018-12-07 13:19:42 +0000"
     },
     "done": true
   },
@@ -150,9 +282,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_planks": "2018-12-06 14:11:09 +0000"
+      "has_coal_block": "2018-12-07 13:16:23 +0000"
     },
     "done": true
   },
@@ -163,12 +295,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2018-12-06 14:11:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-12-06 14:11:09 +0000"
     },
