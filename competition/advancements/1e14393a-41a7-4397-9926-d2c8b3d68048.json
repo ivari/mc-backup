@@ -35,13 +35,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2018-12-07 19:28:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2018-12-07 19:28:48 +0000"
     },
@@ -110,6 +110,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-04 15:13:50 +0000",
+      "minecraft:taiga": "2018-12-08 10:27:56 +0000",
       "minecraft:snowy_tundra": "2018-12-04 14:39:19 +0000"
     },
     "done": false
