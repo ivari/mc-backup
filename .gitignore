@@ -2,6 +2,7 @@
 !.gitignore
 !backup.sh
 
+!competition*.zip
 !competition*/
 !competition*/**
 !ops.json
