@@ -756,6 +756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2018-12-08 07:43:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2018-12-02 07:15:21 +0000"
