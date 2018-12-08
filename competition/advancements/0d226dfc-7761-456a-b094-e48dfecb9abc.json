@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2018-12-08 14:51:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2018-12-01 16:32:42 +0000"
@@ -977,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2018-12-08 14:27:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2018-12-01 09:16:54 +0000"
@@ -1274,6 +1286,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2018-12-01 09:06:18 +0000",
+      "minecraft:taiga": "2018-12-08 14:12:40 +0000",
       "minecraft:snowy_tundra": "2018-12-01 09:03:35 +0000",
       "minecraft:jungle": "2018-12-02 17:14:36 +0000",
       "minecraft:savanna": "2018-12-01 21:18:10 +0000",

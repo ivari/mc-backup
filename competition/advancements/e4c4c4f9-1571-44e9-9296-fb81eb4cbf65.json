@@ -78,13 +78,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2018-12-02 08:41:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2018-12-02 08:41:38 +0000"
     },
