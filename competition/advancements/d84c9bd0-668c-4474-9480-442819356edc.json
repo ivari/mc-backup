@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2018-12-07 23:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_red_flower": "2018-12-01 11:27:21 +0000"
@@ -587,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2018-12-08 00:00:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_at_least_9_emerald": "2018-12-01 11:27:55 +0000"
@@ -605,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2018-12-07 23:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-03 19:39:33 +0000"
@@ -614,6 +632,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-01 11:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2018-12-07 23:58:43 +0000"
     },
     "done": true
   },
@@ -842,6 +866,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2018-12-01 11:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2018-12-07 23:58:43 +0000"
     },
     "done": true
   },
@@ -1205,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-07 23:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_lapis": "2018-12-07 23:56:54 +0000"
@@ -1292,6 +1328,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2018-12-01 11:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-07 23:58:43 +0000"
     },
     "done": true
   },
@@ -1412,6 +1454,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2018-12-07 22:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-07 23:58:43 +0000"
     },
     "done": true
   },
@@ -1937,6 +1985,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2018-12-01 21:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-07 23:58:43 +0000"
     },
     "done": true
   },
